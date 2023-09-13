@@ -9,7 +9,7 @@ The neural network in this code consists of three neurons:
 1. **Neuron 0 and Neuron 1:** These neurons have a hyperbolic tangent (tanh) activation function.
 2. **Neuron 2:** This neuron uses the logistic sigmoid activation function.
 
-Requirements
+### Requirements
 
     Python 3.x
     NumPy library
